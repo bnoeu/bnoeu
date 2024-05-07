@@ -8,5 +8,12 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+ ### Outras tecnologias e ferramentas
+ 
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ### Meu desempenho atual
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnoeu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
